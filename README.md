@@ -1,4 +1,3 @@
-# Book_SpringBootQuickStart
 ![book_image](./book_image.jpg)
 # 스프링 부트 퀵스타트
   
